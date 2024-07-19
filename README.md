@@ -27,3 +27,8 @@ contact me:
 
 10. the winner was console logged inside an statement
 
+how the deployed site looks like:
+
+![alt text](./Assets/images/image1.png)
+![alt text](./Assets/images/image2.png)
+![alt text](./Assets/images/image3.png)
